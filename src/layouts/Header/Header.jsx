@@ -3,7 +3,6 @@ import React from 'react'
 import { Navbar } from '../Navbar/Navbar'
 import { LiNav } from '../../components/LiNavbar'
 
-
 export const Header = () => {
   return (
     <header className="w-full py-4 px-8 bg-gradient-to-r from-sky-500 to-blue-700 flex justify-between items-center shadow-lg rounded-b-xl">
@@ -29,5 +28,7 @@ export const Header = () => {
     </header>
   );
 };
+
+
 
 

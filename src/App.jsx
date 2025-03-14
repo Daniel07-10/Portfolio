@@ -2,7 +2,7 @@ import React from "react";
 
 import { Home } from './pages/Home/Home'
 import { Header } from './layouts/Header/Header'
-import { Footer } from './Layouts/Footer/Footer'
+import {Footer } from './layouts/Footer/Footer.jsx'
 
 
 import { EnglishLevel  } from "./pages/EnglishLevel/EnglishLevel";
